@@ -1,0 +1,14 @@
+.gameButton{
+    width: 24.8%;
+    height: 100px;
+    background-image: url("https://www.bths.edu/pics/header_logo.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+div{
+    text-align: center;
+}
+hr{
+    width: 100%;
+}
